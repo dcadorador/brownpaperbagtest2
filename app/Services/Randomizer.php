@@ -2,7 +2,6 @@
 
 namespace App\Services;
 
-use mysql_xdevapi\Collection;
 
 class Randomizer {
 

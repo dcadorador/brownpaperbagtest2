@@ -39,3 +39,6 @@ Testing: For the custom inherited class run the artisan command
     Sum of first and last are: 50
     Sorted Desc list of numbers are: 27,26,25,24,23,19,18,12,11,2
     Sorted Asc list of numbers are: 2,11,12,18,19,23,24,25,26,27
+
+File Location (base class): <project dir>/app/Services/Randomizer.php
+File Location: <project dir>/app/Services/CustomRandomizer.php
